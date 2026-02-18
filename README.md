@@ -85,8 +85,6 @@ infrastructure issues. Strong communicator with sharp problem-solving and time m
 ## 🌍 Community & Learning
 
 - 👥 **Learn together on Discord**: https://discord.gg/jdzF8kTtw2
-- 📞 **1:1 guidance, mentorship, DevOps consulting & freelancing projects**:
-  https://topmate.io/aman_pathak10
 - 🎥 **DevOps & Cloud related content on Linkedin**:
  (https://www.linkedin.com/in/engr-hammad-yousaf-9b8b00311/)
 
